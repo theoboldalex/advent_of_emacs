@@ -14,6 +14,7 @@
 - paredit
 - config
 - marks, visual selection, editing larger chunks of text, replace-regexp etc
+- macros
 
 - https://sites.google.com/site/steveyegge2/effective-emacs
 - https://www.youtube.com/watch?v=MRYzPWnk2mE
