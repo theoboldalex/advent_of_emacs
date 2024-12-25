@@ -20,6 +20,7 @@
 - org mode
 - LSP/Company
 - snippets
+- Debugging (GDB and Lisp debugger)
 
 ## Resources
 - https://sites.google.com/site/steveyegge2/effective-emacs
