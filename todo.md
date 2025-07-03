@@ -11,6 +11,7 @@
 - ido mode and smex
 - M-x
 - rest client
+- LSP https://ianyepan.github.io/posts/emacs-ide/
 - multiple cursors
 - paredit
 - config
