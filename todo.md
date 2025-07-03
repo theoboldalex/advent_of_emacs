@@ -7,6 +7,7 @@
 - terminal
 - themes and customisation
 - packages and package archives
+- profiling https://ianyepan.github.io/posts/emacs-profiling/
 - ido mode and smex
 - M-x
 - rest client
