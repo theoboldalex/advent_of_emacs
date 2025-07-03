@@ -1,6 +1,7 @@
 ## Ideas for days
 
 - dired
+- distros (spacemacs, doom)
 - magit
 - navigation
 - frames, splits etc
