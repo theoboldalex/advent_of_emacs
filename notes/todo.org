@@ -1,0 +1,35 @@
+* Ideas for days
+
+** TODO quickstart for vim users
+** TODO dired
+** TODO distros (spacemacs, doom)
+** TODO magit
+** TODO navigation
+** TODO frames, splits etc
+** TODO terminal
+** TODO themes and customisation
+** TODO packages and package archives
+** TODO profiling https://ianyepan.github.io/posts/emacs-profiling/
+** TODO ido mode and smex
+** TODO M-x
+** TODO rest client
+** TODO LSP https://ianyepan.github.io/posts/emacs-ide/
+** TODO multiple cursors
+** TODO paredit
+** TODO config
+** TODO marks, visual selection, editing larger chunks of text, replace-regexp etc
+** TODO macros
+** TODO kill ring
+** TODO bookmarks
+** TODO org mode
+** TODO LSP/Company
+** TODO snippets
+** TODO Debugging (GDB and Lisp debugger)
+
+## Resources
+- https://sites.google.com/site/steveyegge2/effective-emacs
+- https://www.youtube.com/watch?v=MRYzPWnk2mE
+- https://emacs.sexy/img/How-to-Learn-Emacs-v2-Large.png
+- https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org
+- https://sourcegraphstatic.com/blog/workspaces-of-sourcegraph/keegan_carruthers-smith.png
+- https://github.com/keegancsmith/dotfiles/blob/master/.emacs.d/init.el
