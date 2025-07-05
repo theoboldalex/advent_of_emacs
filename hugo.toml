@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Advent of Emacs'
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
+
+[params]
+BookLogo = 'logo.png'
+BookTheme = 'light'
+BookSearch = false
