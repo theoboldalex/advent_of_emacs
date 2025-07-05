@@ -1,5 +1,6 @@
 ## Ideas for days
 
+- quickstart for vim users
 - dired
 - distros (spacemacs, doom)
 - magit
