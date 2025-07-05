@@ -1,4 +1,8 @@
-# Day One
+---
+weight: 1
+---
+
+# Day One - How to find anything
 
 ## First steps
 
