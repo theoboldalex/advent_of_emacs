@@ -10,4 +10,13 @@ path = 'github.com/alex-shpak/hugo-book'
 [params]
 BookLogo = 'logo.png'
 BookTheme = 'light'
-BookSearch = false
+BookSearch = true
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+
+[markup.tableOfContents]
+  startLevel = 1
