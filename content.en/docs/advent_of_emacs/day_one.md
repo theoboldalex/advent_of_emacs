@@ -6,10 +6,10 @@ weight: 1
 
 ## First steps
 
-- M-x the most important keystroke for learning about Emacs
+- `M-x` the most important keystroke for learning about Emacs
 
 ### Open a file
-- Ctrl-x Ctrl-f
+- `C-x C-f`
 - ido mode
 
 ### Moving around
